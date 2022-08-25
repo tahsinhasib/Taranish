@@ -1,0 +1,13 @@
+Name Of Game , Price in Taka , Category , App ID
+
+House Of The Dead / 500 / Arcade Shooter / 12
+House Of The Dead 2 / 200 / Arcade / 57
+Fallout New Vegas 2 / 2000 / RPG / 62
+Fallout New Vegas 3 / 2000 / RPG / 63
+Fallout New Vegas 4 / 2000 / RPG / 64
+Fallout New Vegas 5 / 2000 / RPG / 65
+Fallout New Vegas 8 / 2000 / RPG / 68
+Valorant / 2700 / FPS / 101
+Apex Legends / 3300 / Battle Royale / 102
+Fall Guys / 1500 / Arcade / 103
+Warzone / 5000 / Battle Royale / 103
