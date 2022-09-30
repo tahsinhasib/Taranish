@@ -14,28 +14,10 @@ There are two types of user in this application.
 1. User (Unlimited)
 2. Admin (One)
 
-o	User_1 = User
-o	Sign up
-o	Login with normal privileges
-o	Display all games
-o	Search for games
-o	Add desired games to cart
-o	Checkout with selected games
-o	Payment
-
-User_2 = Admin
-o	Create new users using signup
-o	Login with administrative privileges
-o	Display all games
-o	Search for games
-o	Insert new games
-o	Delete existing games
 
 Project Description Example:
-
-Taranish is a program designed to implement a virtual marketplace that facilitates 
-the buying of games available for users on its platform. It has been designed with 
-ease of usage, design and practicality in mind. 
+-----------------------------
+Taranish is a program designed to implement a virtual marketplace that facilitates the buying of games available for users on its platform. It has been designed with ease of usage, design and practicality in mind. 
 
 ●	User Features : 
 ------------------
