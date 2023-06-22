@@ -1,23 +1,23 @@
 # Taranish
-(A Java GUI program of a premier marketplace for ingame items)
+A Java GUI program of a premier marketplace for ingame items
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Before compiling the program you need to change the path of the account_data.txt and
-games_data.txt in the necessary java files.
+## How to use
+Before compiling the program, you need to change the paths of "account_data.txt" and "games_data.txt" in the necessary Java files.
 
-This is the final version of Java GUI project.
+This is the final version of the Java GUI project.
 
 -------------------------------------------------------------------------------------
-There are two types of user in this application. 
-1. User (Unlimited)
+There are two types of users in this application. 
+1. Users (Unlimited)
 2. Admin (One)
 
 
 Project Description Example:
 -----------------------------
-Taranish is a program designed to implement a virtual marketplace that facilitates the buying of games available for users on its platform. It has been designed with ease of usage, design and practicality in mind. 
+Taranish is a program designed to implement a virtual marketplace that facilitates the buying of games available for users on its platform. It has been designed with ease of usage, design, and practicality in mind. 
 
 ●	User Features : 
 ------------------
