@@ -5,7 +5,7 @@ A Java GUI program of a premier marketplace for ingame items
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ## How to use
-Before compiling the program, you need to change the paths of "account_data.txt" and "games_data.txt" in the necessary Java files.
+Before compiling the program, you need to change the paths of <code>"account_data.txt"</code> and <code>"games_data.txt"</code> in the necessary Java files.
 
 This is the final version of the Java GUI project.
 
